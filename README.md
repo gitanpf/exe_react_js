@@ -25,3 +25,5 @@ A aplicação utiliza a fórmula padrão de IMC:
 $$IMC = \frac{peso}{altura^2}$$
 
 Além do valor numérico, a interface retorna a classificação correspondente (Abaixo do peso, Peso normal, Sobrepeso, etc.) de forma visual.
+
+* Link: https://gitanpf.github.io/exe_react_js/
